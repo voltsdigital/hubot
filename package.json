@@ -22,7 +22,7 @@
     "connect-multiparty": "^1.2.5",
     "express": "3.18.1",
     "log": "1.4.0",
-    "optparse": "1.0.4",
+    "optparse": "1.0.5",
     "scoped-http-client": "0.11.0"
   },
   "devDependencies": {
